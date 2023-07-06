@@ -1,5 +1,5 @@
 
-React App - Study tool
+React App -- Study tool
 
 Project Pitch: The aim of this web application is to provide the user with a site similar to Quizlet. This is a React front end application, using React hooks(including useState, useEffect, and useParams). The user should be able to utilize this application to see and create flashcard decks and cards.
 
